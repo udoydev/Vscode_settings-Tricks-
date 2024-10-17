@@ -1,7 +1,7 @@
 # Vscode_settings-Tricks-
 All About vs code settings
-###Fonts 
-SF MONO , INTER (download from folder section)
+## Fonts 
+### SF MONO , INTER (download from folder section)
 
 ### Vs Code Settings.json code UI
 ``` 
