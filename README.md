@@ -1,4 +1,4 @@
-# Vscode_settings-Tricsks-
+# Vscode_settings-Tricks-
 All About vs code settings
 
 ### Vs Code Settings.json code UI
