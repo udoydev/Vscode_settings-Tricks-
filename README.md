@@ -2,7 +2,8 @@
 All About vs code settings
 ## Fonts 
 ### SF MONO , INTER (download from folder section)
-
+### If your fonts look pixelated watcht this video : 
+[Link](https://youtu.be/YRqoVG-ApSI?si=fQCmSMgxeR5ywkxy)
 ### Vs Code Settings.json code UI
 ``` 
 {
